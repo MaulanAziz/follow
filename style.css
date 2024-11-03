@@ -1,0 +1,24 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+}
+
+.utama{
+
+}
+
+.nav{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.gambar{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
